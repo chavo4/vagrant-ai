@@ -1,2 +1,7 @@
-# vagrant-ai
-LLM Kubernetes Cluster with Ollama - VMware Fusion / Vagrant Project / Apple Silicon (aarch64 architecture)
+# LLM Kubernetes Cluster with Ollama 
+
+## Prerequsites 
+- VMware Fusion 
+- Vagrant
+- Apple Silicon (aarch64 architecture)
+
